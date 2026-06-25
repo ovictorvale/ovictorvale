@@ -37,29 +37,32 @@ Atualmente, venho estudando e desenvolvendo projetos utilizando Python, JavaScri
 * Estruturas de Dados
 * Banco de Dados
 * Boas práticas de organização de projetos
+* Django
 
 ---
 
-Projetos em destaque
-Gerenciador de Tarefas Full Stack
+## Projetos em destaque
 
-Projeto desenvolvido com FastAPI, React, SQLite e Docker Compose.
+### Gerenciador de Tarefas Full Stack
+
+Projeto desenvolvido com **FastAPI**, **React**, **SQLite** e **Docker Compose**.
 
 A aplicação permite cadastrar, listar, editar, concluir, reabrir e remover tarefas, com persistência dos dados em banco SQLite e execução completa via Docker Compose.
 
-Tecnologias utilizadas:
+**Tecnologias utilizadas:**
 
-Python
-FastAPI
-SQLModel
-SQLite
-React
-Vite
-Docker
-Docker Compose
+* Python
+* FastAPI
+* SQLModel
+* SQLite
+* React
+* Vite
+* Docker
+* Docker Compose
 
-Repositório:
+**Repositório:**
 https://github.com/ovictorvale/api-tarefas-fastapi
+
 ---
 
 ## Contato
